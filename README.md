@@ -1,3 +1,3 @@
 # hello-world
-GitHub tutorial
+*GitHub tutorial*
 Including a bried blurb on myself.
